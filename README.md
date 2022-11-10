@@ -1,9 +1,11 @@
 # Bullockcart-Creation
 
-##Aim:
+## Aim:
+To create a bullock cart in Maya LT
 
-##Procedure
+## Procedure
 
-##Output
 
-##Result
+## Output
+
+## Result
